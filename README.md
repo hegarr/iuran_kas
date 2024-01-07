@@ -8,7 +8,7 @@
 Menggunakan CoIgniter Dan Gitbash Atau Terminal Di Visual Studio Code
 ## Clone repository
 ```
-https://github.com/mdinalayubi/uasweb.git
+[https://github.com/mdinalayubi/uasweb.git](https://github.com/hegarr/iuran_kas.git)
 ```
 ## Pindah ke directory iuran_kas
 ```
@@ -21,7 +21,7 @@ cd kasrt
 php spark serve
 ```
 ## buka browser dengan alamat address ```http://localhost:8080/```
-| [Demo-on](https://mdinalayubi.000webhostapp.com/) | [YouTube](belum tersedia)
+| [Demo-on](https://hegarsw.000webhostapp.com/) | [YouTube](belum tersedia)
 ## Hasil Output
 ![gambar](imguas/home.png)
 ![gambar](imguas/login.png)
