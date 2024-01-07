@@ -8,7 +8,7 @@
 Menggunakan CoIgniter Dan Gitbash Atau Terminal Di Visual Studio Code
 ## Clone repository
 ```
-[https://github.com/mdinalayubi/uasweb.git](https://github.com/hegarr/iuran_kas.git)
+(https://github.com/hegarr/iuran_kas.git)
 ```
 ## Pindah ke directory iuran_kas
 ```
